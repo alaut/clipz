@@ -9,5 +9,8 @@ Motivations:
 - experiment with python gui
 - create a barebones though stable video editing suite (motivated by action cam videos)
 
+Dependencies:
+- ffmpeg
+
 Alexander J. Laut
 2018.02.21
