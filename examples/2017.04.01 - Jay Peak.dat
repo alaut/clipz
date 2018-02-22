@@ -1,0 +1,85 @@
+# 2017.04.01 - Jay Peak
+
+#outDir	/home/alaut/Desktop/mp4
+#outDir 	./highlights
+
+outDir	/home/alaut/Videos/Highlights/2017.04.01 - Jay Peak
+#outDir	./2017.04.01 - Jay Peak
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0370.MP4
+split	00:00	00:20	01 - snow skirmish.mp4
+split	00:33	01:12	02 - dense trees.mp4
+split	01:43	02:02	03 - dense trees.mp4
+split	02:28	03:02	04 - dense trees.mp4
+split	03:38	04:10	05 - bumps to catwalk.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0371.MP4
+split	00:20	00:40	06 - bumpy trees.mp4
+split	00:46	01:28	07 - dense trees.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0372.MP4
+split	00:03	00:40	08 - powdery trees.mp4
+split	00:49	01:09	09 - powdery trees.mp4
+split	01:13	01:29	10 - powdery trees.mp4
+split	01:37	02:06	11 - powdery trees.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0373.MP4
+split	01:43	02:18	12 - steep trees.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0374.MP4
+split	00:00	01:10	13 - exit tram.mp4
+split	01:10	02:08	14 - face chutes.mp4
+split	02:10	02:31	15 - face chutes.mp4
+split	04:23	05:02	16 - soft moguls.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0375.MP4
+split	00:17	00:23	17 - transition.mp4	
+split	00:41	01:21	18 - steep moguls.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0376.MP4
+split	00:05	00:36	19 - mogul field.mp4
+split	01:22	01:36	20 - mogul field.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0377.MP4
+split	00:26	00:55	21 - cliff to broken ski.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0469.MP4
+split	00:14	00:28	22 - road.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0471.MP4
+split	00:00	00:13	23 - road.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0472.MP4
+split	00:00	01:10	24 - foggy and fast.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0473.MP4
+split	00:00	00:24	25 - fast trees to eject.mp4
+split	01:00	01:54	26 - groomer.mp4
+split	01:54	02:56	27 - corduroy.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0474.MP4
+split	00:00	01:10	28 - chairlift.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0475.MP4
+split	00:30	02:23	29 - moguls with groomer.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0476.MP4
+split	00:24	00:40	30 - steep moguls.mp4
+split	00:45	01:30	31 - steep moguls.mp4
+split	02:10	03:48	32 - park lap.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0478.MP4
+split	00:41	01:05	33 - tree moguls.mp4
+split	02:29	02:43	34 - open moguls.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0479.MP4
+split	00:45	01:13	35 - moguls.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0480.MP4
+split	00:54	02:50	36 - sunny moguls.mp4
+
+clip	/home/alaut/Videos/GoPro Videos/2017.04.01 - Jay Peak/GOPR0481.MP4
+split	00:55	01:07	37 - moguls.mp4
+split	01:20	02:11	38 - moguls.mp4
+
+#continue at cplip 482
