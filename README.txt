@@ -4,5 +4,10 @@ clipz.py
 
 Input : text files including movie path and timestamps to clip with comments to rename the clip + file format output
 
+Motivations:
+- to learn how to use git
+- experiment with python gui
+- create a barebones though stable video editing suite (motivated by action cam videos)
+
 Alexander J. Laut
 2018.02.21
