@@ -11,6 +11,3 @@ Motivations:
 
 Dependencies:
 - ffmpeg
-
-Alexander J. Laut
-2018.02.21
